@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd7877e-3947-4562-8a73-bb194305c221" name="Changes" comment="Skrev av halva kod">
+    <list default="true" id="0bd7877e-3947-4562-8a73-bb194305c221" name="Changes" comment="Skrev hela koden">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NetworkingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715085847222</updated>
-      <workItem from="1715085848219" duration="1131000" />
+      <workItem from="1715085848219" duration="2366000" />
     </task>
     <task id="LOCAL−00001" summary="Skrev av halva kod">
       <option name="closed" value="true" />
@@ -54,7 +55,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1715086361533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Skrev hela koden">
+      <option name="closed" value="true" />
+      <created>1716193216006</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1716193216006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Skrev av halva kod" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skrev av halva kod" />
+    <MESSAGE value="Skrev hela koden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skrev hela koden" />
   </component>
 </project>

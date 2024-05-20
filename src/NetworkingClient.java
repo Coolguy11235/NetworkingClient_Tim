@@ -10,7 +10,7 @@ public class NetworkingClient {
         Socket client;
 
         // Default port number we are going to use
-        int portnumber = 1234;
+        int portnumber = 8080;
         if (args.length >= 1) {
             portnumber = Integer.parseInt(args[0]);
         }
@@ -53,7 +53,7 @@ public class NetworkingClient {
                 if (msg.equalsIgnoreCase("Bye")) {
                     break;
                 }
-            } catch (IOExcpetion ie) {
+            } catch (IOException ie) {
                 System.out.println("I/O error " + ie);
             }
         }
